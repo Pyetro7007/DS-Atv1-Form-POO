@@ -1,5 +1,3 @@
-package atividade;
-
 public class Pessoa {
     //características 
     private int idade;
